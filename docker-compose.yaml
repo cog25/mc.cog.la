@@ -1,5 +1,5 @@
 services:
-  mc:
+  minecraft-server:
     image: itzg/minecraft-server
     container_name: purpur
     environment:
