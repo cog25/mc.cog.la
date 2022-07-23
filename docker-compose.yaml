@@ -9,6 +9,9 @@ services:
       EULA: "true"
       ENABLE_RCON: "true"
       TYPE: PURPUR
+      VERSION: "1.19"
+      PURPUR_BUILD: "LATEST"
+      FORCE_REDOWNLOAD: "true"
       VIEW_DISTANCE: 10
       MEMORY: 4G
       CONSOLE: "false"
