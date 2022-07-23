@@ -8,9 +8,8 @@ services:
       OVERRIDE_SERVER_PROPERTIES: "true"
       EULA: "true"
       ENABLE_RCON: "true"
-      TYPE: PURPUR
+      TYPE: PAPER
       VERSION: "1.19"
-      PURPUR_BUILD: "LATEST"
       FORCE_REDOWNLOAD: "true"
       VIEW_DISTANCE: 10
       MEMORY: 6G
