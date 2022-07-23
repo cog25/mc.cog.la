@@ -13,7 +13,7 @@ services:
       PURPUR_BUILD: "LATEST"
       FORCE_REDOWNLOAD: "true"
       VIEW_DISTANCE: 10
-      MEMORY: 4G
+      MEMORY: 6G
       CONSOLE: "false"
       
       MOTD: "\u00a7f\u00a7lmc.cog.la"
